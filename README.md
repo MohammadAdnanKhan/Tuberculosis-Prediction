@@ -27,9 +27,15 @@ Ensure you have the following installed:
 - Python 3.x
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
-### Installation
+## 📈 Results
+The logistic regression model achieved a balanced performance with good sensitivity and specificity, showing promising results for TB diagnosis.
 
-1. **Clone the repository:**
+## 🚀 Future Work
+- Explore additional features to enhance model accuracy
+- Compare different models for better performance
+- Gather more data to improve robustness and real-world applicability
 
-   ```bash
-   git clone https://github.com/yourusername/tb-prediction.git
+## 🤝 Contributing
+Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
+
+
