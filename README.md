@@ -38,4 +38,8 @@ The logistic regression model achieved a balanced performance with good sensitiv
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
+## 👤 Author
 
+This project was developed by [Mohd Adnan Khan](https://github.com/MohdAdnanKhan001). 
+
+If you have any questions or feedback, feel free to reach out!
